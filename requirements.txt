@@ -1,0 +1,7 @@
+sklearn
+xgboost
+pandas
+jsonify
+flask
+numpy
+gunicorn
